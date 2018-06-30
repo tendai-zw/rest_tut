@@ -1,0 +1,8 @@
+
+Django==2.0.2
+
+djangorestframework==3.8.2
+httpie==0.9.9
+Pillow==5.1.0
+Pygments==2.2.0
+
